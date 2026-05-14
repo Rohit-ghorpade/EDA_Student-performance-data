@@ -1,1 +1,1 @@
-# EDA-2---Student-performance-data
+# EDA Student-performance-data
